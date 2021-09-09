@@ -17,7 +17,7 @@ const DataTable = () => {
                         <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
-                        <td>15,017.00</td>
+                        <td>15017.00</td>
                     </tr>
                 </tbody>
             </table>
