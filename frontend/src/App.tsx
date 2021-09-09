@@ -1,7 +1,7 @@
 import BarChart from "components/BarChart";
 import DataTable from "components/DataTable";
 import DonutChart from "components/DonutChart";
-import Footer from "components/Footer";
+import Rodape from "components/Rodape";
 import NavBar from "components/NavBar";
 
 function App() {
@@ -27,7 +27,7 @@ function App() {
         
       <DataTable />
     </div>
-    <Footer />
+    <Rodape />
     </>
   );
 }

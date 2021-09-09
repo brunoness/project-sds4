@@ -1,4 +1,4 @@
-const Footer = () => {
+const rodape = () => {
     return (
         <footer className="footer mt-auto py-3 bg-dark">
             <div className="container">
@@ -10,4 +10,4 @@ const Footer = () => {
     );
 }
 
-export default Footer;
+export default rodape;
